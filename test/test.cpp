@@ -8,6 +8,7 @@ using mint = modint1000000007;
 
 int main() {
     mint a = 10;
+    int b = 100;
     a += 1000000000;
 
     cout << a.val() << endl;
