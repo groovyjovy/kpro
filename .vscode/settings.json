@@ -1,7 +1,7 @@
 {
   "files.associations": {
-      // skipped
-  },
+    "iostream": "cpp"
+},
   "C_Cpp.errorSquiggles": "disabled", 
   // skipped
   "C_Cpp.default.cppStandard": "c++17",
