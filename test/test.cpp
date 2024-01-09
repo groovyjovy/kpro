@@ -12,5 +12,6 @@ int main() {
     a += 1000000000;
 
     cout << a.val() << endl;
+    cout << "aaa" << endl;
     // a.val() = 3
 }

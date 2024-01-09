@@ -1,0 +1,1023 @@
+    1  2024-01-09 20:33  git branch -a
+    2  2024-01-09 20:33  git stash -u
+    3  2024-01-09 20:33  git branch -a
+    4  2024-01-09 20:33  git checkout develop 
+    5  2024-01-09 20:33  git pull
+    6  2024-01-09 20:33  git fetch --prune
+    7  2024-01-09 20:33  git branch -D issue/15-display-books issue/15-display-books 
+    8  2024-01-09 20:33  git branch -D issue/15-display-books
+    9  2024-01-09 20:33  git status
+   10  2024-01-09 20:33  git checkout -b issue/17-add-book-detail-screen
+   11  2024-01-09 20:33  git stash pop
+   12  2024-01-09 20:33  docker compose down
+   13  2024-01-09 20:33  docker compose up -d
+   14  2024-01-09 20:33  curl http://localhost:3010/api/v1/books/1
+   15  2024-01-09 20:33  curl http://localhost:3010/api/v1/books/1
+   16  2024-01-09 20:33  http://localhost:4000/books/match%20=%3E%20%60http://localhost:3010/api/v1/books/$%7Bmatch.params.id%7D%60
+   17  2024-01-09 20:33  vim ~/.zshrc
+   18  2024-01-09 20:33  brew gcc
+   19  2024-01-09 20:33  brew upgrade
+   20  2024-01-09 20:33  brew install gcc
+   21  2024-01-09 20:33  which gcc
+   22  2024-01-09 20:33  echo $PATH\n
+   23  2024-01-09 20:33  cd /opt/homebrew/
+   24  2024-01-09 20:33  ls -al
+   25  2024-01-09 20:33  grep -r gcc
+   26  2024-01-09 20:33  echo $PATH
+   27  2024-01-09 20:33  gcc --version
+   28  2024-01-09 20:33  cd /opt/homebrew/Cellar/gcc/
+   29  2024-01-09 20:33  ls -la
+   30  2024-01-09 20:33  ln -s /opt/homebrew/Cellar/gcc/13.2.0/bin/g++-13 /opt/homebrew/bin/g++
+   31  2024-01-09 20:33  ln -s /opt/homebrew/Cellar/gcc/13.2.0/bin/gcc-13 /opt/homebrew/bin/gcc
+   32  2024-01-09 20:33  which gcc
+   33  2024-01-09 20:33  source ~/.zshrc
+   34  2024-01-09 20:33  which gcc
+   35  2024-01-09 20:33  cod
+   36  2024-01-09 20:33  code
+   37  2024-01-09 20:33  code
+   38  2024-01-09 20:33  cd ~/src/
+   39  2024-01-09 20:33  git remote add origin git@github.com:groovyjovy/kpro.git
+   40  2024-01-09 20:33  mkdir kpro
+   41  2024-01-09 20:33  cd kpro/
+   42  2024-01-09 20:33  git init
+   43  2024-01-09 20:33  git remote add origin git@github.com:groovyjovy/kpro.git
+   44  2024-01-09 20:33  code
+   45  2024-01-09 20:33  code .
+   46  2024-01-09 20:33  vim ~/.zshenv
+   47  2024-01-09 20:33  git remote add origin git@github.com:groovyjovy/rails-react2.git\ngit branch -M main\ngit push -u origin main
+   48  2024-01-09 20:33  docker compose build
+   49  2024-01-09 20:33  docker compose build
+   50  2024-01-09 20:33  docker compose build
+   51  2024-01-09 20:33  docker compose up -d
+   52  2024-01-09 20:33  docker compose up -d
+   53  2024-01-09 20:33  docekr compose exec api bash
+   54  2024-01-09 20:33  docker compose exec api bash
+   55  2024-01-09 20:33  docker-compose run --rm 
+   56  2024-01-09 20:33  docker-compose run --rm  api rails new . --force -d mysql --api
+   57  2024-01-09 20:33  docker compose build
+   58  2024-01-09 20:33  docker-compose run api rails db:create\n
+   59  2024-01-09 20:33  docker compose up -d
+   60  2024-01-09 20:33  docker compose exec api bash
+   61  2024-01-09 20:33  docker compose down
+   62  2024-01-09 20:33  docker compose up -d
+   63  2024-01-09 20:33  docker comose exec api bash
+   64  2024-01-09 20:33  docker compose exec api bash
+   65  2024-01-09 20:33  docker compose exec api bash
+   66  2024-01-09 20:33  docker compose exec api bash
+   67  2024-01-09 20:33  docker compose up -d
+   68  2024-01-09 20:33  docker compose up -d
+   69  2024-01-09 20:33  docker compose up -d
+   70  2024-01-09 20:33  docker compose down
+   71  2024-01-09 20:33  docker compose up -d
+   72  2024-01-09 20:33  docker compose down
+   73  2024-01-09 20:33  docker compose up -d
+   74  2024-01-09 20:33  docker compose exec api bash
+   75  2024-01-09 20:33  docker compose exec db bash
+   76  2024-01-09 20:33  git checkout main'\n'
+   77  2024-01-09 20:33  git checkout main
+   78  2024-01-09 20:33  git pull
+   79  2024-01-09 20:33  git checkout develop
+   80  2024-01-09 20:33  git checkout -b develo
+   81  2024-01-09 20:33  git checkout main
+   82  2024-01-09 20:33  git branch -D develo
+   83  2024-01-09 20:33  git checkout -b develop
+   84  2024-01-09 20:33  git checkout issue/3-build-environment-of-frontend
+   85  2024-01-09 20:33  git checkout -b issue/3-build-environment-of-frontend
+   86  2024-01-09 20:33  docker compose build
+   87  2024-01-09 20:33  docker compose down
+   88  2024-01-09 20:33  docker compose up -d
+   89  2024-01-09 20:33  docker compose up -d
+   90  2024-01-09 20:33  docker-compose run --rm front sh -c "yarn create react-app app --template typescript"\n
+   91  2024-01-09 20:33  docker compose up -d
+   92  2024-01-09 20:33  docker compose exec front bash
+   93  2024-01-09 20:33  docker compose exec front sh
+   94  2024-01-09 20:33  docker compose exec front sh
+   95  2024-01-09 20:33  docker compose down
+   96  2024-01-09 20:33  docker compose up -d
+   97  2024-01-09 20:33  docker compose exec front sh
+   98  2024-01-09 20:33  git checkout develop
+   99  2024-01-09 20:33  git checkout main
+  100  2024-01-09 20:33  git pull
+  101  2024-01-09 20:33  git checkout develop
+  102  2024-01-09 20:33  git merge main
+  103  2024-01-09 20:33  git checkout main
+  104  2024-01-09 20:33  git checkout -D develop
+  105  2024-01-09 20:33  git branch  -D develop
+  106  2024-01-09 20:33  git checkout main
+  107  2024-01-09 20:33  git fetch 00prune
+  108  2024-01-09 20:33  git fetch --prune
+  109  2024-01-09 20:33  git branch -a
+  110  2024-01-09 20:33  git checkout -b develop
+  111  2024-01-09 20:33  git push origin develop
+  112  2024-01-09 20:33  git branch -a
+  113  2024-01-09 20:33  git fetch --prne
+  114  2024-01-09 20:33  git fetch --prune
+  115  2024-01-09 20:33  git branch -D issuue/5-seting-eslint
+  116  2024-01-09 20:33  git status
+  117  2024-01-09 20:33  git checkout develop
+  118  2024-01-09 20:33  git checkout -b issuue/5-seting-eslint 
+  119  2024-01-09 20:33  git branch -a
+  120  2024-01-09 20:33  git re
+  121  2024-01-09 20:33  git branch -a
+  122  2024-01-09 20:33  less
+  123  2024-01-09 20:33  git push origin issue/5-setting-eslint
+  124  2024-01-09 20:33  git push origin issue/5-seting-eslint
+  125  2024-01-09 20:33  git status
+  126  2024-01-09 20:33  git pull
+  127  2024-01-09 20:33  git stash
+  128  2024-01-09 20:33  git stash pop
+  129  2024-01-09 20:33  git stash save readme
+  130  2024-01-09 20:33  git stash -u
+  131  2024-01-09 20:33  git stash pop
+  132  2024-01-09 20:33  git stash -u
+  133  2024-01-09 20:33  git pull
+  134  2024-01-09 20:33  git pull
+  135  2024-01-09 20:33  git pull
+  136  2024-01-09 20:33  git pull origin develop
+  137  2024-01-09 20:33  git pull
+  138  2024-01-09 20:33  git branch --set-upstream-to=origin/develop develop
+  139  2024-01-09 20:33  git pull
+  140  2024-01-09 20:33  git branch -a
+  141  2024-01-09 20:33  git stash pop
+  142  2024-01-09 20:33  git stash
+  143  2024-01-09 20:33  docker compose down
+  144  2024-01-09 20:33  docker compose up -d
+  145  2024-01-09 20:33  docker compose down
+  146  2024-01-09 20:33  docker compose up -d
+  147  2024-01-09 20:33  git stash -u
+  148  2024-01-09 20:33  git stash
+  149  2024-01-09 20:33  git stash pop -a
+  150  2024-01-09 20:33  git stash pop
+  151  2024-01-09 20:33  git stash
+  152  2024-01-09 20:33  git stash pop
+  153  2024-01-09 20:33  git stash list
+  154  2024-01-09 20:33  git stash pop
+  155  2024-01-09 20:33  git status
+  156  2024-01-09 20:33  docker compose exec api bash
+  157  2024-01-09 20:33  git checkout develop
+  158  2024-01-09 20:33  git pull
+  159  2024-01-09 20:33  git branch -a
+  160  2024-01-09 20:33  git fetch --prune
+  161  2024-01-09 20:33  git branch -D issue/11-intoroduce-rubocop
+  162  2024-01-09 20:33  git checkout -b issue/13-hit-api-and-display-data
+  163  2024-01-09 20:33  docker compose build --no-cache
+  164  2024-01-09 20:33  docker-compose run --rm front sh -c "yarn create react-app app"
+  165  2024-01-09 20:33  yarn run eslint --init
+  166  2024-01-09 20:33  docker compose up -d
+  167  2024-01-09 20:33  docker compose exec front sh
+  168  2024-01-09 20:33  docker compose down
+  169  2024-01-09 20:33  docker compos up -d
+  170  2024-01-09 20:33  docker compose up -d
+  171  2024-01-09 20:33  docker compose exec front sh
+  172  2024-01-09 20:33  docker compose down front
+  173  2024-01-09 20:33  docker compose ps
+  174  2024-01-09 20:33  docker compose up -d
+  175  2024-01-09 20:33  docker compose ps
+  176  2024-01-09 20:33  docker compose down
+  177  2024-01-09 20:33  docker compose up -d
+  178  2024-01-09 20:33  git stash
+  179  2024-01-09 20:33  touch hoge.cpp
+  180  2024-01-09 20:33  docker compose exec db bash
+  181  2024-01-09 20:33  docker compose exec db bash
+  182  2024-01-09 20:33  docker compose down
+  183  2024-01-09 20:33  docker compose up -d
+  184  2024-01-09 20:33  git checkout -b issue/11-intoroduce-rubocop
+  185  2024-01-09 20:33  git log
+  186  2024-01-09 20:33  docker compose exec api bash
+  187  2024-01-09 20:33   /Users/sasakiharukanin/.vscode/extensions/vadimcn.vscode-lldb-1.10.0/adapter/codelldb terminal-agent --connect=50205 
+  188  2024-01-09 20:33  pwd
+  189  2024-01-09 20:33  "/Users/sasakiharukanin/src/kpro/ac-library/atcoder/" が見つかりません。
+  190  2024-01-09 20:33  git push origin main
+  191  2024-01-09 20:33   /Users/sasakiharukanin/.vscode/extensions/vadimcn.vscode-lldb-1.10.0/adapter/codelldb terminal-agent --connect=52270 
+  192  2024-01-09 20:33   /Users/sasakiharukanin/.vscode/extensions/vadimcn.vscode-lldb-1.10.0/adapter/codelldb terminal-agent --connect=52300 
+  193  2024-01-09 20:33   /Users/sasakiharukanin/.vscode/extensions/vadimcn.vscode-lldb-1.10.0/adapter/codelldb terminal-agent --connect=52409 
+  194  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/" && g++ -std=c++17 main.cpp -o main && "/Users/sasakiharukanin/src/kpro/"main
+  195  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/" && g++ -std=c++17 main.cpp -o main && "/Users/sasakiharukanin/src/kpro/"main
+  196  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/" && g++ -std=c++17 main.cpp -o main && "/Users/sasakiharukanin/src/kpro/"main
+  197  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/" && g++ -std=c++17 main.cpp -o main && "/Users/sasakiharukanin/src/kpro/"main
+  198  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/" && g++ -std=c++17 main.cpp -o main && "/Users/sasakiharukanin/src/kpro/"main
+  199  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/" && g++ -std=c++17 main.cpp -o main && "/Users/sasakiharukanin/src/kpro/"main
+  200  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/test/" && g++ -std=c++17 main.cpp -o main && "/Users/sasakiharukanin/src/kpro/test/"main
+  201  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/test/" && g++ -std=c++17 main.cpp -o main && "/Users/sasakiharukanin/src/kpro/test/"main
+  202  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/test/" && g++ -std=c++17 main.cpp -o main && "/Users/sasakiharukanin/src/kpro/test/"main
+  203  2024-01-09 20:33  test
+  204  2024-01-09 20:33  ls -la
+  205  2024-01-09 20:33  test
+  206  2024-01-09 20:33  ex
+  207  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/test/" && g++ -std=c++17 test.cpp -o test && "/Users/sasakiharukanin/src/kpro/test/"test
+  208  2024-01-09 20:33  git push origin main
+  209  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a
+  210  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a
+  211  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a
+  212  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a
+  213  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  214  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  215  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  216  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  217  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  218  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  219  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  220  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  221  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  222  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  223  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  224  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  225  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  226  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  227  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  228  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  229  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  230  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  231  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  232  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  233  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  234  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/305/"a < ./test
+  235  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 b.cpp -o b && "/Users/sasakiharukanin/src/kpro/ABC/305/"b < ./test
+  236  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 b.cpp -o b && "/Users/sasakiharukanin/src/kpro/ABC/305/"b < ./test
+  237  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 b.cpp -o b && "/Users/sasakiharukanin/src/kpro/ABC/305/"b < ./test
+  238  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 b.cpp -o b && "/Users/sasakiharukanin/src/kpro/ABC/305/"b < ./test
+  239  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 b.cpp -o b && "/Users/sasakiharukanin/src/kpro/ABC/305/"b < ./test
+  240  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 b.cpp -o b && "/Users/sasakiharukanin/src/kpro/ABC/305/"b < ./test
+  241  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 tempCodeRunnerFile.cpp -o tempCodeRunnerFile && "/Users/sasakiharukanin/src/kpro/ABC/305/"tempCodeRunnerFile < ./test
+  242  2024-01-09 20:33  git push origin main
+  243  2024-01-09 20:33  git push origin main
+  244  2024-01-09 20:33  git pull
+  245  2024-01-09 20:33  git reset
+  246  2024-01-09 20:33  git reset HEAD^
+  247  2024-01-09 20:33  gti pull
+  248  2024-01-09 20:33  git pull
+  249  2024-01-09 20:33  git push origin main
+  250  2024-01-09 20:33  docker compose exec webapp bash
+  251  2024-01-09 20:33  git push origin main
+  252  2024-01-09 20:33  docker compose down
+  253  2024-01-09 20:33  docker compose exec front bash
+  254  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/rails-api-react/" && g++ hoge.cpp -o hoge && "/Users/sasakiharukanin/src/rails-api-react/"hoge
+  255  2024-01-09 20:33  cp ~/Downloads/ac-library/atcoder ./
+  256  2024-01-09 20:33  cp -r ~/Downloads/ac-library/atcoder ./
+  257  2024-01-09 20:33  pwd
+  258  2024-01-09 20:33   /opt/homebrew/include/atcoder
+  259  2024-01-09 20:33  hisotry
+  260  2024-01-09 20:33  history
+  261  2024-01-09 20:33  pwdr
+  262  2024-01-09 20:33  pwd
+  263  2024-01-09 20:33  ln -s /Users/sasakiharukanin/src/kpro/atcoder /opt/homebrew/include/atcoder
+  264  2024-01-09 20:33  history
+  265  2024-01-09 20:33  git checkout develop
+  266  2024-01-09 20:33  cd ../
+  267  2024-01-09 20:33  ls -la
+  268  2024-01-09 20:33  git push origin issue/17-add-book-detail-screen 
+  269  2024-01-09 20:33  cd ../../
+  270  2024-01-09 20:33  mkdir test
+  271  2024-01-09 20:33  cd test
+  272  2024-01-09 20:33  git clone git@github.com:kumarabhishek008/ReactMuiDragNDropDataTable.git
+  273  2024-01-09 20:33  npm start
+  274  2024-01-09 20:33  ls -la
+  275  2024-01-09 20:33  cd ReactMuiDragNDropDataTable/
+  276  2024-01-09 20:33  npm start
+  277  2024-01-09 20:33   -la
+  278  2024-01-09 20:33  ls -la
+  279  2024-01-09 20:33  npm install
+  280  2024-01-09 20:33  git push origin issue/19-add-froat-table 
+  281  2024-01-09 20:33  cd ../..
+  282  2024-01-09 20:33  ls -la
+  283  2024-01-09 20:33  cd rails-api-react/
+  284  2024-01-09 20:33  ls -al
+  285  2024-01-09 20:33  cd ../
+  286  2024-01-09 20:33  mkdir js_practice
+  287  2024-01-09 20:33  node -v
+  288  2024-01-09 20:33  node
+  289  2024-01-09 20:33  cd js_practice/
+  290  2024-01-09 20:33  vim test.js
+  291  2024-01-09 20:33  node test.js 
+  292  2024-01-09 20:33  vim test.js 
+  293  2024-01-09 20:33  node test.js
+  294  2024-01-09 20:33  vim test.js
+  295  2024-01-09 20:33  vim test.js
+  296  2024-01-09 20:33  node test.js
+  297  2024-01-09 20:33  vim test.js
+  298  2024-01-09 20:33  node test.js
+  299  2024-01-09 20:33  vim test.js
+  300  2024-01-09 20:33  vim test.js
+  301  2024-01-09 20:33  node test.js
+  302  2024-01-09 20:33  vim test.js
+  303  2024-01-09 20:33  cd ../
+  304  2024-01-09 20:33  rm --rm js_practice/
+  305  2024-01-09 20:33  rm --rf js_practice/
+  306  2024-01-09 20:33  rm -rf js_practice/
+  307  2024-01-09 20:33  ls -al
+  308  2024-01-09 20:33  ndoe
+  309  2024-01-09 20:33  node
+  310  2024-01-09 20:33  docker compose ps
+  311  2024-01-09 20:33  docker compos eodnw
+  312  2024-01-09 20:33  docker compose down
+  313  2024-01-09 20:33  docker compose up -d
+  314  2024-01-09 20:33  git push origin issue/19-add-froat-table 
+  315  2024-01-09 20:33  node
+  316  2024-01-09 20:33  yarn
+  317  2024-01-09 20:33  git checkout develop
+  318  2024-01-09 20:33  git stash
+  319  2024-01-09 20:33  git checkout develop
+  320  2024-01-09 20:33  git pull
+  321  2024-01-09 20:33  git branch a-
+  322  2024-01-09 20:33  git branch -a
+  323  2024-01-09 20:33  git fetch --prune
+  324  2024-01-09 20:33  git fetch --prune
+  325  2024-01-09 20:33  git branch -D issue/19-add-froat-table 
+  326  2024-01-09 20:33  git branch -D issue/17-add-book-detail-screen 
+  327  2024-01-09 20:33  git brtanch -a
+  328  2024-01-09 20:33  git branch -a
+  329  2024-01-09 20:33  git branch 
+  330  2024-01-09 20:33  git fetch --prune
+  331  2024-01-09 20:33  git branch -a
+  332  2024-01-09 20:33  git branch -D a- 
+  333  2024-01-09 20:33  git barnch -a
+  334  2024-01-09 20:33  git branch -a
+  335  2024-01-09 20:33  git pull
+  336  2024-01-09 20:33  git barnch a-
+  337  2024-01-09 20:33  git branch -a
+  338  2024-01-09 20:33  git log
+  339  2024-01-09 20:33  git status
+  340  2024-01-09 20:33  git stash list
+  341  2024-01-09 20:33  git stash pop
+  342  2024-01-09 20:33  docker compose up -d 
+  343  2024-01-09 20:33  docker compose exec front bash
+  344  2024-01-09 20:33  docker compose exec front sh
+  345  2024-01-09 20:33  git branch -a
+  346  2024-01-09 20:33  git checkout develop
+  347  2024-01-09 20:33  git stash
+  348  2024-01-09 20:33  git checkout develop
+  349  2024-01-09 20:33  git fetch --prune
+  350  2024-01-09 20:33  git branch -a
+  351  2024-01-09 20:33  git pull
+  352  2024-01-09 20:33  git checkout -b issue/19-add-froat-table
+  353  2024-01-09 20:33  gi stash pop
+  354  2024-01-09 20:33  git stash pop
+  355  2024-01-09 20:33  docker compose exec front sh
+  356  2024-01-09 20:33  docker comopose down
+  357  2024-01-09 20:33  docker compose down
+  358  2024-01-09 20:33  docker compose up -d
+  359  2024-01-09 20:33  \n
+  360  2024-01-09 20:33  node test.js
+  361  2024-01-09 20:33  node test.js
+  362  2024-01-09 20:33  node test.js
+  363  2024-01-09 20:33  node test.js
+  364  2024-01-09 20:33  git stash pop
+  365  2024-01-09 20:33  node test.js
+  366  2024-01-09 20:33  node test.js
+  367  2024-01-09 20:33  node test.js
+  368  2024-01-09 20:33  node test.js
+  369  2024-01-09 20:33  node test.js
+  370  2024-01-09 20:33  node test.js
+  371  2024-01-09 20:33  node test.js
+  372  2024-01-09 20:33  node test.js
+  373  2024-01-09 20:33  node test.js
+  374  2024-01-09 20:33  node test.js
+  375  2024-01-09 20:33  node test.js
+  376  2024-01-09 20:33  node test.js
+  377  2024-01-09 20:33  node test.js
+  378  2024-01-09 20:33  node test.js
+  379  2024-01-09 20:33  node test.js
+  380  2024-01-09 20:33  node test.js
+  381  2024-01-09 20:33  node test.js
+  382  2024-01-09 20:33  node test.js
+  383  2024-01-09 20:33  node test.js
+  384  2024-01-09 20:33  node test.js
+  385  2024-01-09 20:33  node test.js
+  386  2024-01-09 20:33  node test.js
+  387  2024-01-09 20:33  node test.js
+  388  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  389  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  390  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  391  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  392  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  393  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  394  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  395  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  396  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  397  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  398  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  399  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  400  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  401  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/305/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/305/"c < ./test
+  402  2024-01-09 20:33  cd ../
+  403  2024-01-09 20:33  cd 330
+  404  2024-01-09 20:33  ls -al
+  405  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/330/"a < ./test
+  406  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/330/"a < ./test
+  407  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/330/"a < ./test
+  408  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/330/"a < ./test
+  409  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/330/"a
+  410  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/330/"a < ./test
+  411  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/330/"a < ./test
+  412  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/330/"a < ./test
+  413  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 a.cpp -o a && "/Users/sasakiharukanin/src/kpro/ABC/330/"a < ./test
+  414  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 b.cpp -o b && "/Users/sasakiharukanin/src/kpro/ABC/330/"b < ./test
+  415  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/330/"c < ./test
+  416  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/330/"c < ./test
+  417  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/330/"c < ./test
+  418  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 c.cpp -o c && "/Users/sasakiharukanin/src/kpro/ABC/330/"c < ./test
+  419  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 tempCodeRunnerFile.cpp -o tempCodeRunnerFile && "/Users/sasakiharukanin/src/kpro/ABC/330/"tempCodeRunnerFile < ./test
+  420  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 d.cpp -o d && "/Users/sasakiharukanin/src/kpro/ABC/330/"d < ./test
+  421  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 d.cpp -o d && "/Users/sasakiharukanin/src/kpro/ABC/330/"d < ./test
+  422  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 d.cpp -o d && "/Users/sasakiharukanin/src/kpro/ABC/330/"d < ./test
+  423  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 d.cpp -o d && "/Users/sasakiharukanin/src/kpro/ABC/330/"d < ./test
+  424  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 d.cpp -o d && "/Users/sasakiharukanin/src/kpro/ABC/330/"d < ./test
+  425  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 d.cpp -o d && "/Users/sasakiharukanin/src/kpro/ABC/330/"d < ./test
+  426  2024-01-09 20:33  cd "/Users/sasakiharukanin/src/kpro/ABC/330/" && g++ -std=c++17 d.cpp -o d && "/Users/sasakiharukanin/src/kpro/ABC/330/"d < ./test
+  427  2024-01-09 20:33  docker compose up -d
+  428  2024-01-09 20:33  node test.js
+  429  2024-01-09 20:33  node test.js
+  430  2024-01-09 20:33  node test.js
+  431  2024-01-09 20:33  node test.js
+  432  2024-01-09 20:33  node test.js
+  433  2024-01-09 20:33  node test.js
+  434  2024-01-09 20:33  git pull
+  435  2024-01-09 20:33  java
+  436  2024-01-09 20:33  uname -m
+  437  2024-01-09 20:33  node
+  438  2024-01-09 20:33  docker compose exec front sh
+  439  2024-01-09 20:33  open /Applications/Doc
+  440  2024-01-09 20:33  open /Applications/Docker.app
+  441  2024-01-09 20:33  docker compose up 0d
+  442  2024-01-09 20:33  docker compose up -d
+  443  2024-01-09 20:33  docker compose exec front sh
+  444  2024-01-09 20:33  docker compose donw
+  445  2024-01-09 20:33  docker compose down
+  446  2024-01-09 20:33  docker compose pu -d
+  447  2024-01-09 20:33  docker compose up -d
+  448  2024-01-09 20:33  docker compose down
+  449  2024-01-09 20:33  docker compose up -d
+  450  2024-01-09 20:33  docker compose exec front bash
+  451  2024-01-09 20:33  docker compose exec front hs
+  452  2024-01-09 20:33  docker compose exec front sh
+  453  2024-01-09 20:33  docker compose down
+  454  2024-01-09 20:33  docker compose up -d
+  455  2024-01-09 20:33  docker compose exec front sh
+  456  2024-01-09 20:33  docker comopose down
+  457  2024-01-09 20:33  docker compose down
+  458  2024-01-09 20:33  docker compose up -d
+  459  2024-01-09 20:33  docker compose exec front sh
+  460  2024-01-09 20:33  docker compose up -d
+  461  2024-01-09 20:33  docker compose ps
+  462  2024-01-09 20:33  docker compose up -d
+  463  2024-01-09 20:33  git status
+  464  2024-01-09 20:33  git checkout .
+  465  2024-01-09 20:33  git pull
+  466  2024-01-09 20:33  docker compose ps
+  467  2024-01-09 20:33  docker compose logs -f
+  468  2024-01-09 20:33  docker compose logs -f
+  469  2024-01-09 20:33  node test.js
+  470  2024-01-09 20:33  node
+  471  2024-01-09 20:33  git pull
+  472  2024-01-09 20:33  git log
+  473  2024-01-09 20:33  git stash
+  474  2024-01-09 20:33  git pul
+  475  2024-01-09 20:33  git pull
+  476  2024-01-09 20:33  docker compose down
+  477  2024-01-09 20:33  docker compose up -d
+  478  2024-01-09 20:33  ls -al
+  479  2024-01-09 20:33  cd frontend/app/src/components/
+  480  2024-01-09 20:33  ls -la
+  481  2024-01-09 20:33  touch DndHeader.js
+  482  2024-01-09 20:33  code DndHeader.js
+  483  2024-01-09 20:33  touch DndTable.js
+  484  2024-01-09 20:33  docker compose down
+  485  2024-01-09 20:33  docker compose up -d
+  486  2024-01-09 20:33  touch DroppableCell.module.css
+  487  2024-01-09 20:33  git stash
+  488  2024-01-09 20:33  git stath pop
+  489  2024-01-09 20:33  git stash pop
+  490  2024-01-09 20:33  brew install plantuml
+  491  2024-01-09 20:33  ifconfig
+  492  2024-01-09 20:33  ping 8.8.8.8
+  493  2024-01-09 20:33  git pull
+  494  2024-01-09 20:33  docker compose up 0d
+  495  2024-01-09 20:33  docker compose up -d
+  496  2024-01-09 20:33  docker compose exec front sh
+  497  2024-01-09 20:33  docker compose down
+  498  2024-01-09 20:33  docker compose up -d
+  499  2024-01-09 20:33  docker compose exec front sh
+  500  2024-01-09 20:33  git pull
+  501  2024-01-09 20:33  git reset
+  502  2024-01-09 20:33  git reset soft ^HEAD
+  503  2024-01-09 20:33  git reset soft -^HEAD
+  504  2024-01-09 20:33  git reset soft 
+  505  2024-01-09 20:33  git log
+  506  2024-01-09 20:33  git reset --soft HEAD~1\n
+  507  2024-01-09 20:33  docker compose up -d
+  508  2024-01-09 20:33  git push origin develop -f
+  509  2024-01-09 20:33  node
+  510  2024-01-09 20:33  docker compose up -d
+  511  2024-01-09 20:33  node
+  512  2024-01-09 20:33  docker compose exec front sh
+  513  2024-01-09 20:33  docker compose down
+  514  2024-01-09 20:33  docker compose up -d
+  515  2024-01-09 20:33  docker compose logs -d
+  516  2024-01-09 20:33  docker compose logs -f
+  517  2024-01-09 20:33  docker compose exec front sh
+  518  2024-01-09 20:33  docker compose down
+  519  2024-01-09 20:33  docker compose up -d
+  520  2024-01-09 20:33  docker compose exec front sh
+  521  2024-01-09 20:33  docker compose down
+  522  2024-01-09 20:33  docker compose up d-
+  523  2024-01-09 20:33  docker compose up -d
+  524  2024-01-09 20:33  docker compose up -d
+  525  2024-01-09 20:33  docker compose down
+  526  2024-01-09 20:33  docker compose up -d
+  527  2024-01-09 20:33  docker compose down
+  528  2024-01-09 20:33  docker compose up -d
+  529  2024-01-09 20:33  docker compose up -d
+  530  2024-01-09 20:33  docker compose ps
+  531  2024-01-09 20:33  node
+  532  2024-01-09 20:33  docker compose ps
+  533  2024-01-09 20:33  docker compose up -d
+  534  2024-01-09 20:33  docker compose exec sh
+  535  2024-01-09 20:33  docker compose exec forn sh
+  536  2024-01-09 20:33  docker compose exec front sh
+  537  2024-01-09 20:33  docker compose exec front sh
+  538  2024-01-09 20:33  docker compose up -d
+  539  2024-01-09 20:33  docker compose ps
+  540  2024-01-09 20:33  sl -al
+  541  2024-01-09 20:33  git push origin add-task-fetcher
+  542  2024-01-09 20:33  docker compose --rm 'cd app && yarn'
+  543  2024-01-09 20:33  docker compose run --rm 'cd app && yarn'
+  544  2024-01-09 20:33  docker-compose run front --rm 'cd app && yarn'
+  545  2024-01-09 20:33  docker-compose run --rm front sh -c 'cd app && yarn'
+  546  2024-01-09 20:33  docker compose up -d
+  547  2024-01-09 20:33  ff
+  548  2024-01-09 20:33  docker compoes exec front sh
+  549  2024-01-09 20:33  docker compoese exec front sh
+  550  2024-01-09 20:33  docker compose exec front sh
+  551  2024-01-09 20:33  docker compose exec front sh
+  552  2024-01-09 20:33  docker compose exec front sh
+  553  2024-01-09 20:33  docker compose exec db bash
+  554  2024-01-09 20:33  docker compose down
+  555  2024-01-09 20:33  docker compose up -d
+  556  2024-01-09 20:33  docker compose exec db bash
+  557  2024-01-09 20:33  docker compose exec db bash
+  558  2024-01-09 20:33  git log
+  559  2024-01-09 20:33  git stash
+  560  2024-01-09 20:33  git stash pop
+  561  2024-01-09 20:33  git log
+  562  2024-01-09 20:33  git push origin develop -f
+  563  2024-01-09 20:33  irb
+  564  2024-01-09 20:33  touch test.rb
+  565  2024-01-09 20:33  irb
+  566  2024-01-09 20:33  ruby test.rb
+  567  2024-01-09 20:33  ruby test.rb
+  568  2024-01-09 20:33  irb
+  569  2024-01-09 20:33  ruby test.rb
+  570  2024-01-09 20:33  ruby test.rb
+  571  2024-01-09 20:33  ruby test.rb
+  572  2024-01-09 20:33  ruby test.rb
+  573  2024-01-09 20:33  ruby test.rb
+  574  2024-01-09 20:33  ruby test.rb
+  575  2024-01-09 20:33  git branch -b flow_task
+  576  2024-01-09 20:33  git checkout -b flow_task
+  577  2024-01-09 20:33  git stash ./frontend/app/src/components/CopyColumnModal.js
+  578  2024-01-09 20:33  git reset
+  579  2024-01-09 20:33  git reset soft ^HEAD
+  580  2024-01-09 20:33  git reset soft
+  581  2024-01-09 20:33  git reset --soft HEAD~1
+  582  2024-01-09 20:33  git pull
+  583  2024-01-09 20:33  node
+  584  2024-01-09 20:33  git reset --soft HEAD~1
+  585  2024-01-09 20:33  node
+  586  2024-01-09 20:33  node test.js
+  587  2024-01-09 20:33  node test.js
+  588  2024-01-09 20:33  node test.js
+  589  2024-01-09 20:33  node test.js
+  590  2024-01-09 20:33  git pull
+  591  2024-01-09 20:33  docker compose exec front sh
+  592  2024-01-09 20:33  git pull
+  593  2024-01-09 20:33  git checkout -b add-task-fetcher
+  594  2024-01-09 20:33  docker compose exec api bash
+  595  2024-01-09 20:33  docker compose exec api bash
+  596  2024-01-09 20:33  docker compose down
+  597  2024-01-09 20:33  docker compseo up -d
+  598  2024-01-09 20:33  docker compose up -d
+  599  2024-01-09 20:33  docker compose exec api bash
+  600  2024-01-09 20:33  git pull
+  601  2024-01-09 20:33  git checkout develop
+  602  2024-01-09 20:33  git pull
+  603  2024-01-09 20:33  docker compose ps
+  604  2024-01-09 20:33  docker attach rails-api-react-api-1
+  605  2024-01-09 20:33  docker compose up -d
+  606  2024-01-09 20:33  docker compose exec api bash
+  607  2024-01-09 20:33  docker compose exec db bash
+  608  2024-01-09 20:33  docker compose up -d
+  609  2024-01-09 20:33  git pull
+  610  2024-01-09 20:33  docker compose exec api bash
+  611  2024-01-09 20:33  docker compose exec front sh
+  612  2024-01-09 20:33  git pull
+  613  2024-01-09 20:33  docker compose build api
+  614  2024-01-09 20:33  docker compose up -d
+  615  2024-01-09 20:33  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  616  2024-01-09 20:33  source "$HOME/.cargo/env"
+  617  2024-01-09 20:33  rustup
+  618  2024-01-09 20:33  rustup update
+  619  2024-01-09 20:33  cd ../../
+  620  2024-01-09 20:33  mkdir rust_practice
+  621  2024-01-09 20:33  cd rust_practice/
+  622  2024-01-09 20:33  ls -al
+  623  2024-01-09 20:33  code .
+  624  2024-01-09 20:33  ls -a
+  625  2024-01-09 20:33  ls -la
+  626  2024-01-09 20:33  cd guessing_game/
+  627  2024-01-09 20:33  ls -al
+  628  2024-01-09 20:33  vim Cargo.toml 
+  629  2024-01-09 20:33  sls -al
+  630  2024-01-09 20:33  ls- al
+  631  2024-01-09 20:33  ls -la
+  632  2024-01-09 20:33  cargo run
+  633  2024-01-09 20:33  ls -al
+  634  2024-01-09 20:33  vim src/main.rs 
+  635  2024-01-09 20:33  cd  
+  636  2024-01-09 20:33  rustc 
+  637  2024-01-09 20:33  l s-la
+  638  2024-01-09 20:33  ls -la
+  639  2024-01-09 20:33  cd src/rust_practice/hello_world
+  640  2024-01-09 20:33  ls -la
+  641  2024-01-09 20:33  rustc main.rs
+  642  2024-01-09 20:33  rustc --explain E0762
+  643  2024-01-09 20:33  rustc main.rs
+  644  2024-01-09 20:33  rustc main.rs
+  645  2024-01-09 20:33  ./main
+  646  2024-01-09 20:33  git init
+  647  2024-01-09 20:33  ls -la
+  648  2024-01-09 20:33  rm .git
+  649  2024-01-09 20:33  rm -f .git
+  650  2024-01-09 20:33  cd ../
+  651  2024-01-09 20:33  rm -rf ./
+  652  2024-01-09 20:33  rm -rf .//
+  653  2024-01-09 20:33  rm -rf ../
+  654  2024-01-09 20:33  ls -la
+  655  2024-01-09 20:33  rmdir hello_world
+  656  2024-01-09 20:33  rmdir /s hello_world
+  657  2024-01-09 20:33  rm -rf hello_world
+  658  2024-01-09 20:33  git init
+  659  2024-01-09 20:33  cd hello_world
+  660  2024-01-09 20:33  rustc main.rs
+  661  2024-01-09 20:33  ./main
+  662  2024-01-09 20:33  git remote add origin git@github.com:groovyjovy/Rust_Practice.git\ngit branch -M main\ngit push -u origin main
+  663  2024-01-09 20:33  cargo --version
+  664  2024-01-09 20:33  cd ../
+  665  2024-01-09 20:33  cargo new hello_cargo
+  666  2024-01-09 20:33  cargo build
+  667  2024-01-09 20:33  cd hello_cargo
+  668  2024-01-09 20:33  cargo build
+  669  2024-01-09 20:33  ./target/debug/hello_cargo
+  670  2024-01-09 20:33  cargo run
+  671  2024-01-09 20:33  cargo run
+  672  2024-01-09 20:33  cargo run
+  673  2024-01-09 20:33  cargo check
+  674  2024-01-09 20:33  cargo build --release
+  675  2024-01-09 20:33  ./target/release/hello_cargo 
+  676  2024-01-09 20:33  cd ../
+  677  2024-01-09 20:33  cargo new guessing_game
+  678  2024-01-09 20:33  cd guessing_game
+  679  2024-01-09 20:33  ls -al
+  680  2024-01-09 20:33  ls -la
+  681  2024-01-09 20:33  cargo run
+  682  2024-01-09 20:33  cargo run
+  683  2024-01-09 20:33  cargo build
+  684  2024-01-09 20:33  cargo build
+  685  2024-01-09 20:33  cargo run
+  686  2024-01-09 20:33  cargo run
+  687  2024-01-09 20:33  cargo run
+  688  2024-01-09 20:33  cargo run
+  689  2024-01-09 20:33  cargo run
+  690  2024-01-09 20:33  cargo run
+  691  2024-01-09 20:33  cargo run
+  692  2024-01-09 20:33  cargo run
+  693  2024-01-09 20:33  cargo run
+  694  2024-01-09 20:33  cargo new --bin variables
+  695  2024-01-09 20:33  cd ../
+  696  2024-01-09 20:33  ls -la
+  697  2024-01-09 20:33  cargo new --bin variables
+  698  2024-01-09 20:33  cd variables
+  699  2024-01-09 20:33  cargo run
+  700  2024-01-09 20:33  cargo run
+  701  2024-01-09 20:33  cargo run
+  702  2024-01-09 20:33  cargo run
+  703  2024-01-09 20:33  cargo run
+  704  2024-01-09 20:33  cargo run
+  705  2024-01-09 20:33  cargo run
+  706  2024-01-09 20:33  cargo run
+  707  2024-01-09 20:33  cargo run
+  708  2024-01-09 20:33  cargo run
+  709  2024-01-09 20:33  cargo run
+  710  2024-01-09 20:33  cargo run
+  711  2024-01-09 20:33  cargo run
+  712  2024-01-09 20:33  cargo run
+  713  2024-01-09 20:33  cargo run
+  714  2024-01-09 20:33  cargo run
+  715  2024-01-09 20:33  sl-al
+  716  2024-01-09 20:33  sl -al
+  717  2024-01-09 20:33  docker compose ps
+  718  2024-01-09 20:33  history
+  719  2024-01-09 20:33  vim ~/.zshrc 
+  720  2024-01-09 20:33  source ~/.zshrc
+  721  2024-01-09 20:33  host
+  722  2024-01-09 20:33  hisotry
+  723  2024-01-09 20:33  history
+  724  2024-01-09 20:33  history
+  725  2024-01-09 20:33  cat ~/.zsh_history
+  726  2024-01-09 20:33  less ~/.zshrc
+  727  2024-01-09 20:33  vim ~/.zshrc
+  728  2024-01-09 20:33  vim ~/.zshrc
+  729  2024-01-09 20:33  hoge
+  730  2024-01-09 20:33  histoy
+  731  2024-01-09 20:33  history
+  732  2024-01-09 20:33  source ~/.zshrc
+  733  2024-01-09 20:33  history
+  734  2024-01-09 20:33  history
+  735  2024-01-09 20:33  env
+  736  2024-01-09 20:33  history -d
+  737  2024-01-09 20:33  history
+  738  2024-01-09 20:33  vim ~/.zshrc
+  739  2024-01-09 20:33  history -i
+  740  2024-01-09 20:33  history -i 100
+  741  2024-01-09 20:33  echo "alias history='history -i'" >> ~/.zshrc\nsource ~/.zshrc
+  742  2024-01-09 20:33  history
+  743  2024-01-09 20:33  docker compose ps
+  744  2024-01-09 20:33  cargo run
+  745  2024-01-09 20:33  cargo run
+  746  2024-01-09 20:33  cargo run
+  747  2024-01-09 20:33  cargo run
+  748  2024-01-09 20:33  cargo run
+  749  2024-01-09 20:33  cargo run
+  750  2024-01-09 20:33  cargo run
+  751  2024-01-09 20:33  cargo run
+  752  2024-01-09 20:33  cargo run
+  753  2024-01-09 20:33  cargo run
+  754  2024-01-09 20:33  cargo run
+  755  2024-01-09 20:33  cargo run
+  756  2024-01-09 20:33  cargo run
+  757  2024-01-09 20:33  cargo run
+  758  2024-01-09 20:33  cargo run
+  759  2024-01-09 20:33  cargo run
+  760  2024-01-09 20:33  cargo run
+  761  2024-01-09 20:33  cargo run
+  762  2024-01-09 20:33  cargo run
+  763  2024-01-09 20:33  cargo run
+  764  2024-01-09 20:33  l
+  765  2024-01-09 20:33  l
+  766  2024-01-09 20:33  l
+  767  2024-01-09 20:33  cargo run
+  768  2024-01-09 20:33  cargo run
+  769  2024-01-09 20:33  cargo run
+  770  2024-01-09 20:33  cargo run
+  771  2024-01-09 20:33  cargo run
+  772  2024-01-09 20:33  cargo run
+  773  2024-01-09 20:33  cargo run
+  774  2024-01-09 20:33  cargo run
+  775  2024-01-09 20:33  \n
+  776  2024-01-09 20:33  \n
+  777  2024-01-09 20:33  \n
+  778  2024-01-09 20:33  \n
+  779  2024-01-09 20:33  cargo run
+  780  2024-01-09 20:33  cargo run
+  781  2024-01-09 20:33  q
+  782  2024-01-09 20:33  q
+  783  2024-01-09 20:33  cargo run
+  784  2024-01-09 20:33  q[A
+  785  2024-01-09 20:33  cargo run
+  786  2024-01-09 20:33  cargo run
+  787  2024-01-09 20:33  cargo run
+  788  2024-01-09 20:33  cargo run
+  789  2024-01-09 20:33  cd ../
+  790  2024-01-09 20:33  history
+  791  2024-01-09 20:33  env
+  792  2024-01-09 20:33  env | grep histor
+  793  2024-01-09 20:33  env | grep HIS
+  794  2024-01-09 20:33  cd ~
+  795  2024-01-09 20:33  ls -al
+  796  2024-01-09 20:33  less 
+  797  2024-01-09 20:33  less ./.zprofile
+  798  2024-01-09 20:33  less ./.zsh_history
+  799  2024-01-09 20:33  less ./.zsh_history
+  800  2024-01-09 20:33  less -N ./.zsh_history
+  801  2024-01-09 20:33  \n$ echo $HISTFILE
+  802  2024-01-09 20:33  echo $HISTFILE
+  803  2024-01-09 20:33  shell
+  804  2024-01-09 20:33  hso
+  805  2024-01-09 20:33  shot
+  806  2024-01-09 20:33  host
+  807  2024-01-09 20:33  loca
+  808  2024-01-09 20:33  local
+  809  2024-01-09 20:33  host
+  810  2024-01-09 20:33  env
+  811  2024-01-09 20:33  printenv
+  812  2024-01-09 20:33  printenv | grep his
+  813  2024-01-09 20:33  printenv | grep HIS
+  814  2024-01-09 20:33  vim ~/.zprofile
+  815  2024-01-09 20:33  source ~/.zprofile
+  816  2024-01-09 20:33  history
+  817  2024-01-09 20:33  q
+  818  2024-01-09 20:33  history 100
+  819  2024-01-09 20:33  top
+  820  2024-01-09 20:33  vim ~/.zprofile
+  821  2024-01-09 20:33  vim ~/.zshrc
+  822  2024-01-09 20:33  vim ~/.zshrc
+  823  2024-01-09 20:33  source .zshrc
+  824  2024-01-09 20:33  hgoe
+  825  2024-01-09 20:33  shitory
+  826  2024-01-09 20:33  history
+  827  2024-01-09 20:33  hisotry -a
+  828  2024-01-09 20:33  history -a
+  829  2024-01-09 20:33  history
+  830  2024-01-09 20:33  history
+  831  2024-01-09 20:33  cd ../
+  832  2024-01-09 20:33  history
+  833  2024-01-09 20:33  cd ~
+  834  2024-01-09 20:33  history
+  835  2024-01-09 20:33  vim ~/.zsh_history
+  836  2024-01-09 20:33  hsitory
+  837  2024-01-09 20:33  history
+  838  2024-01-09 20:33  history
+  839  2024-01-09 20:33  hisotry
+  840  2024-01-09 20:33  history
+  841  2024-01-09 20:33  history 100
+  842  2024-01-09 20:33  history 100 | grep cargo 
+  843  2024-01-09 20:33  ls -al
+  844  2024-01-09 20:33  cargo new functions
+  845  2024-01-09 20:33  cd functions
+  846  2024-01-09 20:33  ls -al
+  847  2024-01-09 20:33  cargo run
+  848  2024-01-09 20:33  j
+  849  2024-01-09 20:33  j
+  850  2024-01-09 20:33  cargo run
+  851  2024-01-09 20:33  cargo run
+  852  2024-01-09 20:33  cargo run
+  853  2024-01-09 20:33  cargo run
+  854  2024-01-09 20:33  cargo run
+  855  2024-01-09 20:33  cargo run
+  856  2024-01-09 20:33  cargo run
+  857  2024-01-09 20:33  cd ../
+  858  2024-01-09 20:33  cargo new branches
+  859  2024-01-09 20:33  cd branches
+  860  2024-01-09 20:33  sl -al
+  861  2024-01-09 20:33  ls -al
+  862  2024-01-09 20:33  cargo run
+  863  2024-01-09 20:33  cargo run
+  864  2024-01-09 20:33  ls -al
+  865  2024-01-09 20:33  ls -al
+  866  2024-01-09 20:33  cargo run
+  867  2024-01-09 20:33  ls -al
+  868  2024-01-09 20:33  ls -al
+  869  2024-01-09 20:33  cargo run
+  870  2024-01-09 20:33  cargo run
+  871  2024-01-09 20:33  ;5D
+  872  2024-01-09 20:33  cargo run
+  873  2024-01-09 20:33  cargo run
+  874  2024-01-09 20:33  cd ../
+  875  2024-01-09 20:33  cargo new loops
+  876  2024-01-09 20:33  cd ../
+  877  2024-01-09 20:33  cd rust_practice/loops
+  878  2024-01-09 20:33  ls -al
+  879  2024-01-09 20:33  cargo run
+  880  2024-01-09 20:33  cargo run
+  881  2024-01-09 20:33  cargo run
+  882  2024-01-09 20:33  cargo run
+  883  2024-01-09 20:33  cargo run
+  884  2024-01-09 20:33  cargo run
+  885  2024-01-09 20:33  cargo run
+  886  2024-01-09 20:33  cargo run
+  887  2024-01-09 20:33  cargo run
+  888  2024-01-09 20:33  cargo run
+  889  2024-01-09 20:33  cargo run
+  890  2024-01-09 20:33  cargo run
+  891  2024-01-09 20:33  cargo run
+  892  2024-01-09 20:33  cargo run
+  893  2024-01-09 20:33  cargo run
+  894  2024-01-09 20:33  cargo run
+  895  2024-01-09 20:33  cargo run
+  896  2024-01-09 20:33  cargo run
+  897  2024-01-09 20:33  cargo run
+  898  2024-01-09 20:33  cargo run
+  899  2024-01-09 20:33  cargo run
+  900  2024-01-09 20:33  cargo run
+  901  2024-01-09 20:33  cargo run
+  902  2024-01-09 20:33  cargo run
+  903  2024-01-09 20:33  cargo run
+  904  2024-01-09 20:33  cargo run
+  905  2024-01-09 20:33  cargo run
+  906  2024-01-09 20:33  cd ../
+  907  2024-01-09 20:33  cargo new owner_ship
+  908  2024-01-09 20:33  cd owner_ship
+  909  2024-01-09 20:33  ls -al
+  910  2024-01-09 20:33  cargo run
+  911  2024-01-09 20:33  ls -al
+  912  2024-01-09 20:33  uptime
+  913  2024-01-09 20:33  w
+  914  2024-01-09 20:33  who
+  915  2024-01-09 20:33  host
+  916  2024-01-09 20:33  user
+  917  2024-01-09 20:33  mkdir ~/.vim
+  918  2024-01-09 20:33  ls -al
+  919  2024-01-09 20:33  cd ~/.vim
+  920  2024-01-09 20:33  mkdir colors
+  921  2024-01-09 20:33  git clone https://github.com/tomasr/molokai
+  922  2024-01-09 20:33  mv molokai/colors/molokai.vim ~/.vim/colors/
+  923  2024-01-09 20:33  vi ~/.vimrc
+  924  2024-01-09 20:33  vim colors/molokai.vim
+  925  2024-01-09 20:33  vim colors/molokai.vim
+  926  2024-01-09 20:33  history
+  927  2024-01-09 20:33  ls -la
+  928  2024-01-09 20:33  cargo run
+  929  2024-01-09 20:33  cargo run
+  930  2024-01-09 20:33  cargo run
+  931  2024-01-09 20:33  cargo run
+  932  2024-01-09 20:33  cargo run
+  933  2024-01-09 20:33  cargo run
+  934  2024-01-09 20:33  cargo run
+  935  2024-01-09 20:33  cargo run
+  936  2024-01-09 20:33  cargo run
+  937  2024-01-09 20:33  cargo run
+  938  2024-01-09 20:33  cargo run
+  939  2024-01-09 20:33  cargo run
+  940  2024-01-09 20:33  cargo run
+  941  2024-01-09 20:33  vim colors/molokai.vim
+  942  2024-01-09 20:33  cd owner_ship
+  943  2024-01-09 20:33  ls -al
+  944  2024-01-09 20:33  cargor run 
+  945  2024-01-09 20:33  cargo run 
+  946  2024-01-09 20:33  cargo run 
+  947  2024-01-09 20:33  cargo run 
+  948  2024-01-09 20:33  cargo run 
+  949  2024-01-09 20:33  cargo run 
+  950  2024-01-09 20:33  cargo run 
+  951  2024-01-09 20:33  cargo run 
+  952  2024-01-09 20:33  cargo run 
+  953  2024-01-09 20:33  cargo run 
+  954  2024-01-09 20:33  cargo run 
+  955  2024-01-09 20:33  cd ../
+  956  2024-01-09 20:33  ls -al
+  957  2024-01-09 20:33  cargo new structs
+  958  2024-01-09 20:33  cd structs
+  959  2024-01-09 20:33  cargo run
+  960  2024-01-09 20:33  cargo run
+  961  2024-01-09 20:33  cargo run
+  962  2024-01-09 20:33  cargo run
+  963  2024-01-09 20:33  cargo run
+  964  2024-01-09 20:33  cargo run
+  965  2024-01-09 20:33  cargo run
+  966  2024-01-09 20:33  cargo run
+  967  2024-01-09 20:33  cargo run
+  968  2024-01-09 20:33  ;5C
+  969  2024-01-09 20:33  ;5C
+  970  2024-01-09 20:33  cargo run
+  971  2024-01-09 20:33   /Users/sasakiharukanin/.vscode/extensions/vadimcn.vscode-lldb-1.10.0/adapter/codelldb terminal-agent --connect=49908 
+  972  2024-01-09 20:33  cd ../
+  973  2024-01-09 20:33  cargo new rectangles
+  974  2024-01-09 20:33  cd rectangles
+  975  2024-01-09 20:33  cargo run
+  976  2024-01-09 20:33  cargo run
+  977  2024-01-09 20:33  cargo run
+  978  2024-01-09 20:33  cargo run
+  979  2024-01-09 20:33  cargo run
+  980  2024-01-09 20:33  cargo run
+  981  2024-01-09 20:33  cargo run
+  982  2024-01-09 20:33  cargo run
+  983  2024-01-09 20:33  cargo run
+  984  2024-01-09 20:33  cargo run
+  985  2024-01-09 20:33  cargo run
+  986  2024-01-09 20:33  cargo run
+  987  2024-01-09 20:33  cargo run
+  988  2024-01-09 20:33  history
+  989  2024-01-09 20:33  vim
+  990  2024-01-09 20:33  vim
+  991  2024-01-09 20:33  cargo run
+  992  2024-01-09 20:33  cd ..
+  993  2024-01-09 20:33  cargo new enums
+  994  2024-01-09 20:33  cd enums
+  995  2024-01-09 20:33  ls -al
+  996  2024-01-09 20:33  ls -al
+  997  2024-01-09 20:33  ls -al
+  998  2024-01-09 20:33  ls -al
+  999  2024-01-09 20:33  ls -al
+ 1000  2024-01-09 20:33  cargo run
+ 1001  2024-01-09 20:34  sl -al
+ 1002  2024-01-09 20:34  ls -al
+ 1003  2024-01-09 20:34  a
+ 1004  2024-01-09 20:34  ls -la
+ 1005  2024-01-09 20:34  a
+ 1006  2024-01-09 20:35  a.cpp
+ 1007  2024-01-09 20:35  cpp a.cpp
+ 1008  2024-01-09 20:35  g++ a.cpp
+ 1009  2024-01-09 20:37  ls -al
+ 1010  2024-01-09 20:38  cd ../305
+ 1011  2024-01-09 20:38  ls -al
+ 1012  2024-01-09 20:38  a
+ 1013  2024-01-09 20:38  g++ a
+ 1014  2024-01-09 20:44  gcc a
+ 1015  2024-01-09 20:44  gcc a < test
+ 1016  2024-01-09 20:44  cd ../
+ 1017  2024-01-09 20:45  cd ../test
+ 1018  2024-01-09 20:45  gcc test
+ 1019  2024-01-09 20:45  gcc test.cpp
+ 1020  2024-01-09 20:47  hisotry 10000
+ 1021  2024-01-09 20:48  history 10000
+ 1022  2024-01-09 20:48  history -a
+ 1023  2024-01-09 20:48  history a
