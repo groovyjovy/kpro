@@ -1,6 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 void stk() {
   stack<int> s;
   s.push(1);
